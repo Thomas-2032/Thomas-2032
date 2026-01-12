@@ -26,9 +26,8 @@
 
 ##  GitHub 統計 (GitHub Stats)
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thomas-2032&show_icons=true&theme=radical)
+![Thomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thomas-2032&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thomas-2032&layout=compact&theme=radical)
-
 ---
 
 ##  如何聯絡我 (Connect with me)
