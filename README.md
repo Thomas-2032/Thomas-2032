@@ -18,7 +18,7 @@
 
 ##  精選專案 
 
-###  [FlyPlayWeb - 旅遊推薦系統]([你的專案連結](https://github.com/XiaoWang1212/FlyPlayWeb))
+###  [FlyPlayWeb - 旅遊推薦系統](https://github.com/XiaoWang1212/FlyPlayWeb)
 * **核心技術：** Python, Flask, OpenAI API, Docker
 * **描述：** 整合大型語言模型（LLM）為使用者生成個人化的旅遊規劃建議，並透過容器化技術確保開發環境的一致性。
 
