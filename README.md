@@ -26,8 +26,8 @@
 
 ## 📊 GitHub 統計 (GitHub Stats)
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=你的GitHub帳號&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=你的GitHub帳號&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thomas-2032&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thomas-2032&layout=compact&theme=radical)
 
 ---
 
