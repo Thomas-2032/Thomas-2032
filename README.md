@@ -1,4 +1,4 @@
-# Hi there, I'm Thomas
+# Hi, I'm Thomas
 
 ### Information Management Student | Aspiring Software Engineer & Project Analyst
 
@@ -18,20 +18,20 @@
 
 ##  精選專案 
 
-### ✈️ [FlyPlayWeb - 旅遊推薦系統](你的專案連結)
+###  [FlyPlayWeb - 旅遊推薦系統]([你的專案連結](https://github.com/XiaoWang1212/FlyPlayWeb))
 * **核心技術：** Python, Flask, OpenAI API, Docker
 * **描述：** 整合大型語言模型（LLM）為使用者生成個人化的旅遊規劃建議，並透過容器化技術確保開發環境的一致性。
 
 ---
 
-## 📊 GitHub 統計 (GitHub Stats)
+##  GitHub 統計 (GitHub Stats)
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thomas-2032&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thomas-2032&layout=compact&theme=radical)
 
 ---
 
-## 📫 如何聯絡我 (Connect with me)
+##  如何聯絡我 (Connect with me)
 * **Email:** [thomashuang0930@gmail.com]
-* **LinkedIn:** [[你的 LinkedIn 連結](https://www.linkedin.com/in/%E6%9B%B8%E8%81%96-%E9%BB%83-a5959534a/)]
+* **LinkedIn:** [[我的 LinkedIn 連結](https://www.linkedin.com/in/%E6%9B%B8%E8%81%96-%E9%BB%83-a5959534a/)]
 * **目標：** 目前正在積極尋找 **2026 夏季實習機會**，歡迎任何技術交流或合作！
