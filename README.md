@@ -2,7 +2,6 @@
 
 ### Information Management Student | Aspiring Software Engineer & Project Analyst
 
-我是一名就讀於**資訊管理系三年級**的學生。我喜歡透過程式碼解決複雜的管理問題，目前專注於後端開發以及自動化工具的實作。
 
 ---
 
