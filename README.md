@@ -1,17 +1,17 @@
-# Hi, I'm Thomas 👋
+# Hi, I'm Thomas 
 
 ### Information Management Student | Aspiring Software Engineer
 
 I'm passionate about backend development, web technologies, and building practical software solutions.
 
-- 🔭 Building projects with Python, Flask, APIs, and Docker
-- 🌱 Strengthening my knowledge of data structures, algorithms, system design, and software testing
-- 💡 Interested in backend engineering, API development, and AI-powered applications
-- 🎯 Seeking a Software Engineering internship for Summer 2026
+-  Building projects with Python, Flask, APIs, and Docker
+-  Strengthening my knowledge of data structures, algorithms, system design, and software testing
+-  Interested in backend engineering, API development, and AI-powered applications
+-  Seeking a Software Engineering internship for Summer 2026
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
 | Category | Tools & Languages |
 | :--- | :--- |
@@ -21,17 +21,17 @@ I'm passionate about backend development, web technologies, and building practic
 
 ---
 
-## 🚀 Featured Project
+##  Featured Project
 
 ### [FlyPlayWeb — AI-Powered Travel Recommendation System](https://github.com/XiaoWang1212/FlyPlayWeb)
 
-- **Technologies:** Python, Flask, OpenAI API, Docker
+- **Technologies:** Python, Flask, Gemini API, Docker
 - **Overview:** A travel recommendation system that integrates a Large Language Model (LLM) to generate personalized trip-planning suggestions.
 - **Engineering Focus:** Uses Flask for backend services, the OpenAI API for intelligent recommendations, and Docker to maintain a consistent development environment.
 
 ---
 
-## 📚 Currently Learning
+##  Currently Learning
 
 - Data Structures and Algorithms
 - System Design fundamentals
@@ -39,15 +39,15 @@ I'm passionate about backend development, web technologies, and building practic
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![Thomas's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Thomas-2032&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Thomas-2032&layout=compact&theme=radical)
 
 ---
 
-## 📫 Connect with Me
+##  Connect with Me
 
 - **Email:** [thomashuang0930@gmail.com](mailto:thomashuang0930@gmail.com)
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/%E6%9B%B8%E8%81%96-%E9%BB%83-a5959534a/)
-- **Opportunities:** I'm currently seeking a Software Engineering internship for Summer 2026 and welcome opportunities to connect, collaborate, and discuss technology.
+- **Opportunities:** I'm currently seeking a Software Engineering internship for 2027 and welcome opportunities to connect, collaborate, and discuss technology.
